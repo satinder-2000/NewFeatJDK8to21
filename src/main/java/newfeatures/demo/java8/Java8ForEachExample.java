@@ -1,4 +1,5 @@
 package newfeatures.demo.java8;
+//Source: https://www.digitalocean.com/community/tutorials/java-8-features-with-examples
 
 import java.util.ArrayList;
 import java.util.Iterator;
